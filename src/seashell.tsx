@@ -1,3 +1,3 @@
-export function App() {
+export function Seashell() {
   return <h1 className="text-3xl font-bold underline">Hello world!</h1>;
 }
